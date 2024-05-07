@@ -1,0 +1,14 @@
+C:\Users\jasem\OneDrive\Escritorio\parcial_ll_marco_zamora_1338424\parcial_ll_marco_zamora_1338424\bin\Debug\net8.0\parcial_ll_marco_zamora_1338424.exe
+C:\Users\jasem\OneDrive\Escritorio\parcial_ll_marco_zamora_1338424\parcial_ll_marco_zamora_1338424\bin\Debug\net8.0\parcial_ll_marco_zamora_1338424.deps.json
+C:\Users\jasem\OneDrive\Escritorio\parcial_ll_marco_zamora_1338424\parcial_ll_marco_zamora_1338424\bin\Debug\net8.0\parcial_ll_marco_zamora_1338424.runtimeconfig.json
+C:\Users\jasem\OneDrive\Escritorio\parcial_ll_marco_zamora_1338424\parcial_ll_marco_zamora_1338424\bin\Debug\net8.0\parcial_ll_marco_zamora_1338424.dll
+C:\Users\jasem\OneDrive\Escritorio\parcial_ll_marco_zamora_1338424\parcial_ll_marco_zamora_1338424\bin\Debug\net8.0\parcial_ll_marco_zamora_1338424.pdb
+C:\Users\jasem\OneDrive\Escritorio\parcial_ll_marco_zamora_1338424\parcial_ll_marco_zamora_1338424\obj\Debug\net8.0\parcial_ll_marco_zamora_1338424.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasem\OneDrive\Escritorio\parcial_ll_marco_zamora_1338424\parcial_ll_marco_zamora_1338424\obj\Debug\net8.0\parcial_ll_marco_zamora_1338424.AssemblyInfoInputs.cache
+C:\Users\jasem\OneDrive\Escritorio\parcial_ll_marco_zamora_1338424\parcial_ll_marco_zamora_1338424\obj\Debug\net8.0\parcial_ll_marco_zamora_1338424.AssemblyInfo.cs
+C:\Users\jasem\OneDrive\Escritorio\parcial_ll_marco_zamora_1338424\parcial_ll_marco_zamora_1338424\obj\Debug\net8.0\parcial_ll_marco_zamora_1338424.csproj.CoreCompileInputs.cache
+C:\Users\jasem\OneDrive\Escritorio\parcial_ll_marco_zamora_1338424\parcial_ll_marco_zamora_1338424\obj\Debug\net8.0\parcial_ll_marco_zamora_1338424.dll
+C:\Users\jasem\OneDrive\Escritorio\parcial_ll_marco_zamora_1338424\parcial_ll_marco_zamora_1338424\obj\Debug\net8.0\refint\parcial_ll_marco_zamora_1338424.dll
+C:\Users\jasem\OneDrive\Escritorio\parcial_ll_marco_zamora_1338424\parcial_ll_marco_zamora_1338424\obj\Debug\net8.0\parcial_ll_marco_zamora_1338424.pdb
+C:\Users\jasem\OneDrive\Escritorio\parcial_ll_marco_zamora_1338424\parcial_ll_marco_zamora_1338424\obj\Debug\net8.0\parcial_ll_marco_zamora_1338424.genruntimeconfig.cache
+C:\Users\jasem\OneDrive\Escritorio\parcial_ll_marco_zamora_1338424\parcial_ll_marco_zamora_1338424\obj\Debug\net8.0\ref\parcial_ll_marco_zamora_1338424.dll
